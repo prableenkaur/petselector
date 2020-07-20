@@ -1,0 +1,7 @@
+test()
+IS VERY DIFFERENT THAN
+test
+
+test <- refers to the function
+output = test() <- refers the calling to the function, the output is the output of the function
+
