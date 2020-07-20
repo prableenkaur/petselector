@@ -20,3 +20,5 @@ while there are qualities remaining and they havent pressed done:
     tell them what they selected
 
 tell them the qualities they chose 
+
+# i'm going to add this to git
